@@ -11,7 +11,7 @@ What I bring to a BA role that most BAs don't: I can read an API spec, understan
 ### My BA Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Full%20Portfolio-Notion-black?style=flat-square&logo=notion)](https://rattle-dogwood-96b.notion.site/Portfolio-Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Goyal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shweta-goyal-161b88179)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Goyal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/shweta-g-goyal)
 
 | Project | Domain | Tools |
 |---|---|---|
