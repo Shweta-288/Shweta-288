@@ -4,7 +4,7 @@ I spent five years as an Android Developer, starting at startups in Jaipur and t
 What I bring to a BA role that most BAs don't: I can read an API spec, understand what a requirement means for a mobile architecture, and have that conversation with an engineering team directly.
 ---
 My Work
-![Portfolio](https://img.shields.io/badge/Full%20Portfolio-Notion-black?style=flat-square&logo=notion) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Goyal-0077B5?style=flat-square&logo=linkedin)
+![Portfolio](https://rattle-dogwood-96b.notion.site/Shweta-Goyal-Technical-BA-3679d574c24c80369bb2e15ae5a862a6) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Goyal-0077B5?style=flat-square&logo=linkedin)
 Project	Domain	Tools
 Lowe's, E-commerce	E-commerce · Requirements, root cause analysis, UAT	JIRA · Confluence · SQL
 UniAthena, EdTech	EdTech · LMS features, learner behaviour, conversion	JIRA · Figma · Confluence
